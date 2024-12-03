@@ -1,4 +1,4 @@
-# Binary Classification for Imbalanced Data 
+# Random Oversampling - Binary Classification for Imbalanced Data 
 ## Overview
 This project aims to develop a binary classification model for predicting train delays using historical train data. The dataset contains 31K historical records spanning over three days, with the "Delayed" feature as the binary target column. A "0" indicates no delay, while "1" represents a delay.
 
